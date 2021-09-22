@@ -6,3 +6,9 @@ p {
     font-family: "Helvetica";
     font-size: 10px;
 }
+.me-image {
+    float: left;
+    width: 125px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
