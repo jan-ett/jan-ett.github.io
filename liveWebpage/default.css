@@ -6,6 +6,10 @@ p {
     font-family: "Helvetica";
     font-size: 10px;
 }
+ul {
+    font-family: "Helvetica";
+    font-size: 10px;
+}
 .me-image {
     float: left;
     width: 125px;
