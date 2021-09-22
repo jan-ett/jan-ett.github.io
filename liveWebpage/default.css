@@ -1,4 +1,8 @@
 h1, h2 {
     font-family: "Helvetica";
+    font-size: 12px;
+}
+p {
+    font-family: "Helvetica";
     font-size: 10px;
 }
