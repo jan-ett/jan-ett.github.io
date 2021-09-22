@@ -11,4 +11,5 @@ p {
     width: 125px;
     margin-right: 20px;
     margin-left: 20px;
+    border: 7px solid #000000;
 }
